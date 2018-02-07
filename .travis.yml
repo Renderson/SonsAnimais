@@ -8,5 +8,3 @@ android:
     - build-tools-26.1.0
     - android-16
     - android-26
-    - sys-img-armeabi-v7a-android-22
-    - extra-android-m2repository
