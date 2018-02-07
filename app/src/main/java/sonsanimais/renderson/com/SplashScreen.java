@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class SplashScreen extends Activity {
 
     TextView textView;
+    TextView textView2;
     private static int SPLASH_SCREEN_TIME_OUT = 3000;
 
     @Override
