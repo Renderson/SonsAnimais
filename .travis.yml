@@ -23,4 +23,4 @@ cache:
     - $HOME/.android/build-cacåhe
 
 script:
-  - ./gradlew test
+  - chmod +x ./gradlew
